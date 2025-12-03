@@ -1,4 +1,4 @@
-# Análisis Multiobjetivo de Selección Óptima de Pozos de Monitoreo de Agua Subterránea
+# Análisis multiobjetivo de selección óptima de pozos de monitoreo de agua subterránea
 
 ## Descripción
 
@@ -8,7 +8,7 @@ El trabajo compara sistemáticamente dos algoritmos de optimización multiobjeti
 - **NSGA-II** (Non-dominated Sorting Genetic Algorithm II)
 - **MOEA/D** (Multi-Objective Evolutionary Algorithm based on Decomposition)
 
-### Objetivos de Optimización
+### Objetivos de optimización
 
 El modelo optimiza simultáneamente tres funciones objetivo:
 1. **Eficiencia Nash–Sutcliffe (NSE)** — maximizar la precisión de la representación espacial de la calidad del agua.  
@@ -17,9 +17,9 @@ El modelo optimiza simultáneamente tres funciones objetivo:
 
 ---
 
-## Trabajo de Tesis
+## Trabajo de tesis
 
-**Título:** Análisis Multiobjetivo de Selección Óptima de Pozos de Monitoreo de Agua Subterránea.  
+**Título:** Análisis multiobjetivo de selección óptima de pozos de monitoreo de agua subterránea.  
 **Autores:**  
 - Elías Fernando Cristaldo Ruíz.  
 - Nathaly Lorena Prieto Meza.
@@ -44,7 +44,7 @@ TFG-Optimizacion-Red-Monitoreo-Acuifero-Patino/
 ```
 ##  Requisitos
 
-### Dependencias Principales
+### Dependencias principales
 ```
 Python >= 3.11
 pymoo >= 0.6.1.3
