@@ -44,3 +44,35 @@ TFG-Optimizacion-Red-Monitoreo-Acuifero-Patino/
 ├── notebooks/            # (opcional) notebooks con análisis y gráficas
 ├── LICENSE
 └── README.md
+```
+##  Requisitos
+
+### Dependencias Principales
+```
+Python >= 3.11
+pymoo >= 0.6.1.3
+numpy >= 1.24.0
+pandas >= 2.0.0
+scipy >= 1.11.0
+matplotlib >= 3.7.0
+```
+
+### Instalación
+
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/nthprt/TFG-Optimizacion-Red-Monitoreo-Acuifero-Patino.git
+cd TFG-Optimizacion-Red-Monitoreo-Acuifero-Patino
+```
+
+2. Crear entorno virtual (recomendado):
+```bash
+python -m venv venv
+source venv/bin/activate  # En Windows: venv\Scripts\activate
+```
+
+3. Instalar dependencias:
+```bash
+pip install pymoo numpy pandas scipy matplotlib
+```
+
