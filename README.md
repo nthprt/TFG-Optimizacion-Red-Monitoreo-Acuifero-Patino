@@ -21,12 +21,12 @@ El modelo optimiza simultáneamente tres funciones objetivo:
 
 **Título:** Análisis Multiobjetivo de Selección Óptima de Pozos de Monitoreo de Agua Subterránea.  
 **Autores:**  
-- Elías Fernando Cristaldo Ruíz  
-- Nathaly Lorena Prieto Meza
+- Elías Fernando Cristaldo Ruíz.  
+- Nathaly Lorena Prieto Meza.
 
 **Tutores:**  
-- D.Sc. Liz Báez  
-- D.Sc. Christian von Lücken
+- D.Sc. Liz Báez.  
+- D.Sc. Christian von Lücken.
 
 **Institución:** Facultad Politécnica, Universidad Nacional de Asunción  
 **Año:** 2025
@@ -38,10 +38,7 @@ El modelo optimiza simultáneamente tres funciones objetivo:
 ```txt
 TFG-Optimizacion-Red-Monitoreo-Acuifero-Patino/
 ├── nsga2.py
-├── moead.py
-├── data/                 # (opcional) datos de entrada: rásters, tablas, shapefiles
-├── results/              # (opcional) resultados, figuras y reportes
-├── notebooks/            # (opcional) notebooks con análisis y gráficas
+├── moead.py           
 ├── LICENSE
 └── README.md
 ```
